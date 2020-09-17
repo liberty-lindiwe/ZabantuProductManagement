@@ -1,0 +1,13 @@
+div{
+    cursor:pointer;
+}
+
+.crop {
+    overflow:hidden;
+}
+
+.fa-star {
+        color: yellow;     
+        
+      }
+

@@ -1,0 +1,21 @@
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  .switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.card{
+  margin-top:50px;
+  background-color: rgba(0, 0, 100, 0.6);
+  color:white;
+  width: 90%;
+} 
+
+.image{
+  transform:rotate(50deg);
+}

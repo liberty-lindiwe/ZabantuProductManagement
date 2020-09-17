@@ -1,0 +1,48 @@
+.card{
+    margin-top: 50px;
+    background:rgba(0,0,0,0.6);
+    border:solid white;
+    color: white;
+    
+}
+
+input{
+    border: none;
+    color: black;
+    border:none;
+}
+
+input:focus{
+     background-color:palegoldenrod;
+     border:none;
+     border-radius: 5px;
+     color: black;
+}
+
+.table{
+    margin-top: 3%;
+    padding: 15%;
+    border:solid thick white;
+    color: white;
+}
+
+td a{
+    color: white;
+    text-decoration: none;
+}
+
+ td a:focus{
+    background-color:rgba(0, 0, 0, 0.6);
+}
+
+
+@media only screen and (min-width: 997px) {
+    .btn {
+        border-radius: 15px 50px;
+        border: none;
+        height: 60px;
+        width: 60%;
+        background-image: linear-gradient(to right top, #0c0537, #0a0f61, #0c148d, #1515bb, #2712eb);       }
+
+  }
+  
